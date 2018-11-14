@@ -1,4 +1,4 @@
-# ts-enum [![Build Status](https://travis-ci.org/bendrucker/ts-enum.svg?branch=master)](https://travis-ci.org/bendrucker/ts-enum)
+# ts-enum [![Build Status](https://travis-ci.org/bendrucker/ts-enum.svg?branch=master)](https://travis-ci.org/bendrucker/ts-enum) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/ts-enum.svg)](https://greenkeeper.io/)
 
 > Create TypeScript enums in JS
 
